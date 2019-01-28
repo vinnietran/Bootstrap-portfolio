@@ -17,9 +17,9 @@ body{
     background-color: #ffffff;
     border: transparent;
     margin: auto;
-    padding: 10px 25px 10px 25px;
+    padding: 10px 25px 25px 25px;
     z-index: 5;
-    top: 0px;   
+
 }
 
 .navbar-nav{
